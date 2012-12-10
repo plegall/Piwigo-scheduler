@@ -92,7 +92,7 @@ WHERE id = "'. SCHEDULER_ID .'"';
   load_language('plugin.lang', SCHEDULER_PATH);
   
   // prepare plugin configuration
-  $conf['scheduler'] = unserialize($conf['scheduler']);
+  // $conf['scheduler'] = unserialize($conf['scheduler']);
 }
 
 function scheduler_init_publish()
