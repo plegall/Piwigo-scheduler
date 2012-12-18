@@ -91,7 +91,6 @@ DELETE
 /* Template */
 $template->assign(array(
   'F_ACTION' => $self_url,
-  'scheduler' => $conf['scheduler'],
   'TITLE' => render_element_name($picture),
   'TN_SRC' => DerivativeImage::thumb_url($picture),
   'SCHEDULED_FOR' => @$scheduler['scheduled_for'],
