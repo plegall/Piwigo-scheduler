@@ -21,4 +21,8 @@
 // | USA.                                                                  |
 // +-----------------------------------------------------------------------+
 $lang['Now'] = 'Teraz';
+$lang['Minute'] = 'Minuta';
+$lang['Schedule for'] = 'Zaplanuj na';
+$lang['Schedule photo'] = 'Zaplanuj zdjęcia';
+$lang['Scheduler'] = 'Harmonogram';
 ?>
