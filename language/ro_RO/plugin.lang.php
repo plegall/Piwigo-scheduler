@@ -22,4 +22,7 @@
 // +-----------------------------------------------------------------------+
 $lang['Minute'] = 'Minut';
 $lang['Now'] = 'Acum';
+$lang['Schedule for'] = 'Programează pentru';
+$lang['Schedule photo'] = 'Programează fotografia';
+$lang['Scheduler'] = 'Programator';
 ?>
