@@ -24,4 +24,5 @@ $lang['Minute'] = 'Minuutti';
 $lang['Now'] = 'Nyt';
 $lang['Schedule photo'] = 'Aikatauluta kuva';
 $lang['Scheduler'] = 'Aikatauluttaja';
+$lang['Schedule for'] = 'Ajastus';
 ?>
